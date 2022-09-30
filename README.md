@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Gulshan, a App developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Gulshan, a Full stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on Groccery App  
